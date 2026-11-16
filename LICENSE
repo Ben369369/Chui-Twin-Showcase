@@ -1,0 +1,11 @@
+Copyright (c) 2026 Benedict Ngetich. All rights reserved.
+
+This repository and its contents (text, documentation, data files and code) are made
+publicly visible for viewing and for verifying the published sealed forecasts only.
+
+No license, express or implied, is granted to copy, modify, distribute, sublicense or
+create derivative works from any part of this repository, except as permitted by
+applicable law (for example, fair use). Running verify_seal.py to check the published
+hashes is permitted.
+
+For any other use, contact the author through GitHub.
